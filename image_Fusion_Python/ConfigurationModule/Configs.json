@@ -1,0 +1,12 @@
+{
+  "shape":{"rows":1080,"cols":1920,"dims":3},
+  "normalStreamPath": "rtsp://admin:asis2018@192.168.1.64/Streaming/Channels/101",
+  "thermalStreamPath": "rtsp://admin:asis2018@192.168.1.64/Streaming/Channels/201",
+  "thermalParameters": {"thermal_XStart": 250,
+                        "thermal_XEnd": 1450,
+                        "thermal_YStart": 75,
+                        "thermal_YEnd": 1050},
+  "datasetDemoNormalPath": "D:\\Asis\\image_Fusion_Python\\Dataset\\1b",
+  "datasetDemoThermalPath": "D:\\Asis\\image_Fusion_Python\\Dataset\\1a",
+  "cudaBlockThreadCount": 1024
+}

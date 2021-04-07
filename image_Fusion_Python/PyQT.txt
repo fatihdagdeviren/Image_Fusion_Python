@@ -1,0 +1,2 @@
+
+C:/Users/Asis/Anaconda3/Library/bin/pyuic5.bat D:/Asis/image_Fusion_Python/RaspForm.ui >>  D:/Asis/image_Fusion_Python/GUI.py
